@@ -158,11 +158,10 @@ footer {
 .width {
   display: flex;
   justify-content: space-between;
-  width: 90%;
   font-family: sans-serif;
 }
 .footer-headings {
-  color: rgb(195, 193, 193);
+  color: rgb(97, 97, 97);
 }
 .footer-paragraph {
   color: white;
@@ -180,4 +179,23 @@ hr {
 }
 .font {
   font-family: sans-serif;
+}
+.second-dow {
+  display: block;
+  padding-right: 170px;
+  padding-top: 80px;
+}
+.single-img {
+  margin-bottom: 30px;
+}
+.singleimage {
+  border: 2px solid rgb(97, 97, 97);
+  border-radius: 10px;
+}
+.alignment {
+  width: 90%;
+}
+.last {
+  display: flex;
+  justify-content: space-between;
 }
