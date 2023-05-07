@@ -198,4 +198,16 @@ hr {
 .last {
   display: flex;
   justify-content: space-between;
+  padding: 0px 160px;
+}
+.swi {
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+  padding-top: 7px;
+}
+.pics {
+  width: 15%;
+  display: flex;
+  justify-content: space-between;
 }
